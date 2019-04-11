@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/artemeon/calendar-heatmap/issues"
   },
-  "homepage": "https://github.com/artemeon/calendar-heatmap#readme"
+  "homepage": "https://github.com/artemeon/calendar-heatmap#readme",
+  "dependencies": {
+    "d3": "^3.5.17",
+    "jquery": "^3.4.0",
+    "moment": "^2.24.0"
+  }
 }
